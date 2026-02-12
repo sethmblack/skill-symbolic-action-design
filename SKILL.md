@@ -1,10 +1,9 @@
 ---
 name: symbolic-action-design
-description: Design symbolic gestures that reshape relationships and change what people
-  believe is possible.
+description: Design symbolic gestures that reshape relationships and change what people believe is possible.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - symbolic-action-design
